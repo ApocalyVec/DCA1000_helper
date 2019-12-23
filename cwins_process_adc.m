@@ -1,0 +1,1 @@
+readDCA1000("F:\adc_data.bin");
